@@ -104,6 +104,6 @@ The back end is built using Java and handles data storage, user authentication, 
 # Output 
 
 ```bash +exec
-javac Backend.java
-python app.py
+just build
+just run
 ```
