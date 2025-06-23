@@ -2,7 +2,7 @@
 title: "StudentSync: Student Productivity System"
 sub_title: "Presented by: Mischief Committee"
 authors:
-    - Vaishnav Sabari Girish (22BTREC021)
+    - Vaishnav Sabari Girish (22BTREC021) (Team Leader)
     - Aryan R (22BTREI003)
     - Sinchan KN (22BTREI017)
 ---
@@ -11,7 +11,7 @@ authors:
 
 ## The Team 
 
-1. Vaishnav Sabari Girish (22BTREC021)
+1. Vaishnav Sabari Girish (22BTREC021) (Team Leader)
 2. Sinchan KN (22BTREI017)
 3. Aryan R (22BTREI003)
 
