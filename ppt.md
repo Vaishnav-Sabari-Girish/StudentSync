@@ -49,7 +49,7 @@ regular sleep, hydration, and physical activity.
 
 # Core Functions 
 
-![image:width:100%](/home/vaishnav/Untitled.jpg)
+![image:width:100%](./core_features.jpg)
 
 <!--end_slide-->
 
