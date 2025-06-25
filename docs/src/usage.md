@@ -1,5 +1,11 @@
 # How to use the App
 
+The app has the following features
+
+1. [Task Manager](#task-related-operations)
+2. [Pomodoro Timer](#the-pomodoro-timer)
+3. [Habit Tracker](#habit-tracker)
+
 Once you run the command `just run` or `make run`, you are greeted with the following window. 
 
 ![Light login](./images/light_login_reg.png)
@@ -21,6 +27,12 @@ Once you have logged in, you are greeted with this window.
 ![Task Window](./images/task_window.png)
 
 # Task related Operations
+
+1. [Add new Task](#adding-a-task)
+2. [Edit a Task](#editing-a-task)
+3. [Tracking a Task](#tracking-task-progress)
+4. [Delete a Task](#deleting-a-task)
+
 
 ## Adding a Task
 
@@ -68,12 +80,42 @@ The StudentSync app also has an integrated Pomodoro Timer, which helps the stude
 
 This system makes sure that the student isn't overwhelmed due to studies. 
 
-To access the Pomodoro Timer, click on the **Focus Timer* tab. 
+To access the Pomodoro Timer, click on the **Focus Timer** tab. 
 
 Here is the video of Pomodoro. 
 
 <video controls width="900">
     <source src="./images/pomodoro.mp4" type="video/mp4">
 </video>
+
+<br>
+
+# Habit Tracker
+
+This is similar to Task Manager in the app. 
+Here, you can add your routines and for how much time, you will perform your routines. 
+
+Same as task, you can 
+
+1. [Add New Routine](#adding-new-routine)
+2. [Edit Routine]
+3. [Tracking the Routine progress]
+4. [Delete Routine]
+
+## Adding new Routine
+
+To add a new Routine, first go to the **Habit Planner** tab. 
+
+Then enter your habit, with the time you will spend on that habit and click on **Add new Habit**
+
+<video controls width="900">
+    <source src="./images/habit_add.mp4" type="video/mp4">
+</video>
+
+<br>
+
+## Editing a Routine
+
+To edit a routine, select the routine you want to edit and the click on **Edit Routine**, you will now havee to enter the new routine name and new time. 
 
 
