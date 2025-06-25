@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+<!--**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*-->
 
 - [StudentSync](#studentsync)
   - [Overview](#overview)
@@ -52,8 +52,9 @@ Or you can download the PDF [file](./ppt.pdf)
 ## Video 
 
 
-https://github.com/user-attachments/assets/8622e564-3103-46ff-9703-a65de011346d
-
+<video controls width="900">
+    <source src="./video.mp4" type="video/mp4">
+</video>
 
 
 ## How to install 
