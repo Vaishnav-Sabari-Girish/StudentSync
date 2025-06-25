@@ -20,6 +20,8 @@ Once you have logged in, you are greeted with this window.
 
 ![Task Window](./images/task_window.png)
 
+# Task related Operations
+
 ## Adding a Task
 
 Here, you can add your task on the input field and press **Add Task** Button to see the task. 
@@ -50,4 +52,28 @@ To edit a task, select the task you want to edit and click on **Edit Task**. You
 
 <br>
 
-Then to delete a task, we will select the task and them click on **Delete Task**
+## Deleting a Task 
+
+Then to delete a task, we will select the task and them click on **Delete Task**. The task will then be deleted as shown in the below video.
+
+<video controls width="900">
+    <source src="./images/delete_task.mp4" type="video/mp4">
+</video>
+
+<br>
+
+# The Pomodoro Timer
+
+The StudentSync app also has an integrated Pomodoro Timer, which helps the students study for a certain time (25 minutes) and take a break (5 minutes). After 2 study sessions, there is a long break of 15 minutes. 
+
+This system makes sure that the student isn't overwhelmed due to studies. 
+
+To access the Pomodoro Timer, click on the **Focus Timer* tab. 
+
+Here is the video of Pomodoro. 
+
+<video controls width="900">
+    <source src="./images/pomodoro.mp4" type="video/mp4">
+</video>
+
+
