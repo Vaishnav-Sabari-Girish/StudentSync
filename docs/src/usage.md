@@ -116,6 +116,6 @@ Then enter your habit, with the time you will spend on that habit and click on *
 
 ## Editing a Routine
 
-To edit a routine, select the routine you want to edit and the click on **Edit Routine**, you will now havee to enter the new routine name and new time. 
+To edit a routine, select the routine you want to edit and the click on **Edit Routine**, you will now have to enter the new routine name and new time. 
 
 
