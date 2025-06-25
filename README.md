@@ -52,9 +52,8 @@ Or you can download the PDF [file](./ppt.pdf)
 ## Video 
 
 
-<video controls width="900">
-    <source src="./video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/8622e564-3103-46ff-9703-a65de011346d
+
 
 
 ## How to install 
