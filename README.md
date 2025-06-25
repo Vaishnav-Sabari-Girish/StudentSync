@@ -52,8 +52,7 @@ Or you can download the PDF [file](./ppt.pdf)
 ## Video 
 
 
-https://github.com/user-attachments/assets/537eba24-4b19-4f3c-ab00-a7305a021a70
-
+https://github.com/user-attachments/assets/8622e564-3103-46ff-9703-a65de011346d
 
 
 
