@@ -98,8 +98,8 @@ Here, you can add your routines and for how much time, you will perform your rou
 Same as task, you can 
 
 1. [Add New Routine](#adding-new-routine)
-2. [Edit Routine]
-3. [Tracking the Routine progress]
+2. [Edit Routine](#editing-a-routine)
+3. [Tracking the Routine progress](#tracking-the-routine-progress)
 4. [Delete Routine]
 
 ## Adding new Routine
@@ -118,4 +118,16 @@ Then enter your habit, with the time you will spend on that habit and click on *
 
 To edit a routine, select the routine you want to edit and the click on **Edit Routine**, you will now have to enter the new routine name and new time. 
 
+<video controls width="900">
+    <source src="./images/habit_edit.mp4">
+</video>
 
+<br>
+
+## Tracking the Routine progress
+
+Tracking the routine progress is the same as that of the task. 
+
+Check the box on the far right of the habit you want to change the progress of. 
+
+Here's the video
