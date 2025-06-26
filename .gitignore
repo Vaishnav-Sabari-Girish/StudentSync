@@ -1,3 +1,3 @@
 *.class
 *.ser
-/docs/book/
+/docs/book/*
